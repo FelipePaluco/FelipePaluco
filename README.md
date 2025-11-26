@@ -18,11 +18,11 @@ Currently working with:
 
 ### 🧭 What I'm Currently Focusing On
 
-- 📌 Architecting **Front-End** applications
-- 🚀 Building full-stack solutions with **Next.js + FastAPI**
-- 📚 Learning deeper **software architecture & cloud-native patterns**
-- 🤝 Looking to work on impactful **AI** / **DevTools** / **Infrastructure** projects
-- 🙏 Open Source contributions/administration to <a href="https://github.com/opentibiabr/canary">OpenTibiaBR</a> (**MMORPG Engine**)
+- 📌 Architecting **Front-End** applications.
+- 🚀 Building full-stack solutions with **Next.js + FastAPI**.
+- 📚 Learning deeper **software architecture & cloud-native patterns**.
+- 🤝 Looking to work on impactful **AI** / **DevTools** / **Infrastructure** projects.
+- 🙏 Open Source contributions/administration to <a href="https://github.com/opentibiabr/canary">OpenTibiaBR</a> (**MMORPG Engine**).
 
 <br/>
 
