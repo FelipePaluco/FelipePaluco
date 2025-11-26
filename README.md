@@ -22,7 +22,7 @@ Currently working with:
 - 🚀 Building full-stack solutions with **Next.js + FastAPI**;
 - 📚 Learning deeper **software architecture & cloud-native patterns**;
 - 🤝 Looking to work on impactful **AI** / **DevTools** / **Infrastructure** projects;
-- 🙏 Open Source contributions/administration to <a href="https://github.com/opentibiabr/canary">OpenTibiaBR</a> (**Canary MMORPG Engine Project**)
+- 🙏 Open Source contributions/administration to <a href="https://github.com/opentibiabr/canary">OpenTibiaBR</a> (**MMORPG Engine**)
 
 <br/>
 
